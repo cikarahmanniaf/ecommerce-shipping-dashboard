@@ -1,0 +1,12 @@
+name: ecommerce_dashboard
+title:
+username: cikarahmanniaf
+account: cikarahmanniaf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17740822
+bundleId: 12448704
+url: https://cikarahmanniaf.shinyapps.io/ecommerce_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
